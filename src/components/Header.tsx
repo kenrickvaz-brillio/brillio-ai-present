@@ -22,7 +22,7 @@ const Header: React.FC = () => {
               <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
                 <Brain className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold text-gray-900">AI Present</span>
+              <span className="text-xl font-bold text-gray-900">Slide Hustle</span>
             </Link>
             
             <nav className="hidden md:flex space-x-1">
